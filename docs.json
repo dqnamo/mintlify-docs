@@ -7,6 +7,9 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "fonts": {
+    "family": "Manrope"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
